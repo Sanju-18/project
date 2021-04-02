@@ -1,0 +1,75 @@
+.navbar-nav a:hover{
+background-size: 110%;
+}
+.carousel{
+width: 100%;
+height: 450px;
+background-position: center;
+}
+#First_slide{
+height: 450px;
+background-size: cover;
+background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./picture/construction7.jpg);
+}
+#Second_slide{
+height: 450px;
+background-size: cover;
+background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./picture/construcion2.jpg);
+}
+#Third_slide{
+height: 450px;
+background-size: cover;
+background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./picture/construction6.jpg);
+}
+.con{
+padding: 55px 0;
+text-align: center;
+background-color: #2b7ffd88;
+}
+.con h1{
+font-style: underline;
+font-size: 55px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: #0e2f61f6;
+}
+.con p{
+font:20px Calibri;
+color: #240e61f6;
+}
+.project{
+padding:55px 0;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Card1{
+background-image: url(./picture/construcion.jpg);
+background-size: cover;
+}
+#Card2{
+background-image: url(./picture/construcion1.jpg);
+background-size: cover;
+}
+#Card3{
+background-image: url(./picture/construcion2.jpg);
+background-size: cover;
+}
+#Card4{
+background-image: url(./picture/construcion3.jpg);
+background-size: cover;
+}
+.Contact{
+background-color: #2b7ffd88;
+}
+.right{
+height: 50%;
+width: 40%;
+padding: 3%;
+margin-left: 30%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 25px;
+}
+.Contact img{
+height: 90px;
+margin-left: 40%;
+background-color: inherit;
+}
